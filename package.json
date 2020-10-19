@@ -1,0 +1,24 @@
+{
+  "name": "hh-2020-w6-coach-sca",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neuefische/hh-2020-w6-coach-sca.git"
+  },
+  "author": "Andreas Paech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neuefische/hh-2020-w6-coach-sca/issues"
+  },
+  "homepage": "https://github.com/neuefische/hh-2020-w6-coach-sca#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
