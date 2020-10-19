@@ -1,0 +1,49 @@
+footer {
+    position: fixed;
+    bottom: 1.25em;
+    left: 1.25em;
+    right: 1.25em;
+    border-top: 1px solid #ccc;
+    height: 80px;
+    background-color: #fff;
+    height: 2.75em;
+    width: 20.938em;
+    border-radius: 5px;
+    box-shadow: 0 2px 11px 0px #193251, 0 2px 11px 0 #193251;
+    background-blend-mode: darken;
+    z-index: 10;
+}
+
+.nav {
+    display: flex;
+}
+
+.nav__button {
+    width: 25%;
+    position: relative;
+    margin: 0.6em;
+    height: 1.313em;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.nav__button--home {
+    background-image: url('../../images/dashboard_icon.png');
+}
+
+.nav__button--codebuddys {
+    background-image: url('../../images/buddy_icon.png');
+}
+
+.nav__button--team {
+    background-image: url('../../images/team_icon.png');
+}
+
+.nav__button--energy {
+    background-image: url('../../images/energy_icon.png');
+}
+
+.nav__button--journalpage {
+    background-image: url('../../images/journal_icon.png');
+}
