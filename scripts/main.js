@@ -10,8 +10,3 @@ document
         })
     })
 
-
-document.getAttribute('data-href', () => {
-        if(this.getAttribute.value = '')
-        document.write.toggle__head('adsfghjk')
-        })
