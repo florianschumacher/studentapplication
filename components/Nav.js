@@ -1,6 +1,7 @@
-import navigateTo from './navigation'
-/* import toggleCopy from './toggleheader' */
+import createElement from '../ui-framework/index'
 
+/*
+function createNavigation(){
 document
     .querySelectorAll('.nav__button')
     .forEach(element => {
@@ -9,3 +10,6 @@ document
             navigateTo(event.target.getAttribute('data-href'))
         })
     })
+} 
+
+*/
