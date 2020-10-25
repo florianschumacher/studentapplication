@@ -30,20 +30,35 @@ footer {
 
 .nav__button--home {
     background-image: url('../../images/dashboard_icon.png');
+    width: 48px;
+    height: 48px;
+    margin-left: 20px;
 }
 
 .nav__button--codebuddys {
     background-image: url('../../images/buddy_icon.png');
+    width: 48px;
+    height: 48px;
+    margin-left: 20px;
 }
 
 .nav__button--team {
     background-image: url('../../images/team_icon.png');
+    width: 48px;
+    height: 48px;
+    margin-left: 20px;
 }
 
 .nav__button--energy {
     background-image: url('../../images/energy_icon.png');
+    width: 48px;
+    height: 48px;
+    margin-left: 20px;
 }
 
 .nav__button--journalpage {
     background-image: url('../../images/journal_icon.png');
+    width: 48px;
+    height: 48px;
+    margin-left: 20px;
 }
