@@ -13,7 +13,7 @@ export default () => {
     for (i; i > 0; i--) {
         const item = 'stars'+i;
         let star = document.getElementById('starscontainer');
-        star.insertAdjacentHTML('beforeend', '<input type="radio" id="'+item+'" name="rating" value="'+i+'" /><label for="'+item+'" title="Rocks!">'+i+' stars</label>');
+        star.insertAdjacentHTML('beforeend', '<input type="radio" id="'+item+'" name="rating" value="'+i+'" /><label for="'+item+'">'+i+'</label>');
     } 
     
     const journalBoxNaming2 = createElement('p', journalBox, 'journal__box--namings', 'Comprehension:');
